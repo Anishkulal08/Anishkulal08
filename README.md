@@ -7,13 +7,24 @@
 
 ## 🚀 Skills
 
+## 🚀 Skills
+
+* C
+* C++
+* Java
+* Python
 * HTML
 * CSS
 * JavaScript
 * Git & GitHub
-* ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+*![C](https://img.shields.io/badge/C-grey?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+
 
 
 ---
