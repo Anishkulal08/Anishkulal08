@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,100:feb47b&height=200&section=header&text=Anish%20Kulal&fontSize=40&fontColor=ffffff"/>
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishKulal08&layout=compact)
 # Hi 👋, I'm Anish Kulal
 
 🎓 BCA Student
