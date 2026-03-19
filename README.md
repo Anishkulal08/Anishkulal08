@@ -1,3 +1,4 @@
+![Banner]("C:\Users\anish\Downloads\banner.png")
 # Hi 👋, I'm Anish Kulal
 
 🎓 BCA Student
