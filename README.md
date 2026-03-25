@@ -23,7 +23,7 @@
 * CSS
 * JavaScript
 * Git & GitHub
-*
+
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge\&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java)
