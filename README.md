@@ -13,8 +13,6 @@
 
 ## 🚀 Skills
 
-## 🚀 Skills
-
 * C
 * C++
 * Java
