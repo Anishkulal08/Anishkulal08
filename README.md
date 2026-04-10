@@ -22,6 +22,7 @@
 * JavaScript
 * Git & GitHub
 * Mongo Db
+* ML
 
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge\&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
