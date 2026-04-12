@@ -20,6 +20,7 @@
 * HTML
 * CSS
 * JavaScript
+* sqlite 
 * Git & GitHub
 * Mongo Db
 * ML
