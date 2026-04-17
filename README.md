@@ -8,7 +8,7 @@
 
 🎓 BCA Student
 💻 Interested in Web Development<br>
-<h3>Portfolio</h3>: https://anishkulal.vercel.app
+<h3>Portfolio</h3> https://anishkulal.vercel.app
 
 ---
 
