@@ -7,8 +7,8 @@
  Hi 👋, I'm <b>Anish Kulal</b> 
 
 🎓 BCA Student
-💻 Interested in Web Development
-Portfolio: anishkulal.vercel.app
+💻 Interested in Web Development<br>
+<h3>Portfolio</h3>: https://anishkulal.vercel.app
 
 ---
 
